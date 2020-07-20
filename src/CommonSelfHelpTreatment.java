@@ -1,0 +1,3 @@
+  public enum CommonSelfHelpTreatment {
+    ICE_PACK, HEATING_PAD, REST, PHYSICAL_THERAPY, EXERCISE, MEDITATION, BIOFEEDBACK
+  }

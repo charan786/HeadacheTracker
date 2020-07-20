@@ -1,0 +1,3 @@
+public enum CommonPainType {
+  STABBING, PULSATING, THROBBING, CONSTANT, BURNING
+}
